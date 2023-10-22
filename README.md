@@ -33,12 +33,7 @@ Puedes verificar mis certificaciones en [mi perfil de Platzi](https://platzi.com
 
 Estoy emocionado por lo que depara el futuro. Mis metas incluyen seguir desarrollando mis habilidades en tecnología y encontrar formas de aplicarlas en mi campo actual y en nuevos proyectos.
 
-## Dónde encontrarme
-
-- LinkedIn: [Henry Peralta en LinkedIn](URL de tu perfil de LinkedIn)
-- Twitter: [Tu perfil de Twitter](URL de tu perfil de Twitter) (si lo tienes)
-- Otros enlaces relevantes
 
 ¡Siempre estoy abierto a la colaboración y a conocer a nuevos colegas y amigos! No dudes en contactarme.
 
-![Imagen de Perfil](URL de tu imagen de perfil)
+Saludos Att Henry Peralta DEV 🚀💯
