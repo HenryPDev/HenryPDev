@@ -4,14 +4,18 @@ Es un resumen de mis perfil profesional.
 
 ## Sobre mí
 
-Actualmente, me desempeño como coordinador de call center y estoy estudiando Ingeniería en Sistemas. Soy una persona alegre, con un fuerte enfoque en el trabajo en equipo, altamente responsable y autodidacta.
+Actualmente, me desempeño como coordinador de call center y estoy estudiando Ingeniería en Sistemas. Soy una persona dinamica, con un fuerte enfoque en el trabajo en equipo, altamente responsable y autodidacta.
 
 ## Habilidades
 
 - Power BI
+- SAP
 - Python
+- CSS
+- JS
 - Excel
 - Suite de Google
+- Looker Studio
 
 ## Proyectos Destacados
 
