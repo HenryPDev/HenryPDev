@@ -19,7 +19,8 @@ Actualmente, me desempeño como coordinador de call center y estoy estudiando In
 
 ## Proyectos Destacados
 
-- **En construcción:** Estoy trabajando en varios proyectos en GitHub. ¡Pronto estarán disponibles para explorar!
+- **En construcción:** Estoy trabajando en varios proyectos en GitHub.
+-  ¡Pronto estarán disponibles para explorar!
 
 ## Enfoque
 
